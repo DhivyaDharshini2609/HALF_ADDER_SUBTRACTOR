@@ -55,7 +55,21 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
+HALF ADDER
+![alt text](<Screenshot 2025-11-27 224415.png>)
+
+HALF SUBTRACTOR
+![alt text](<Screenshot 2025-11-27 225747.png>)
+
+
 
 **Output/TIMING Waveform**
 
+**HALF ADDER**
+![alt text](<Screenshot 2025-11-27 224449.png>)
+
+**HALF SUBTRACTOR**
+![alt text](<Screenshot 2025-11-27 230450.png>)
+
 **Result:**
+Thus the Half Adder and Half Subtractor are studied and the truth tables are verified
